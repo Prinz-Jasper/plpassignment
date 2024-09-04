@@ -1,3 +1,26 @@
 body {
 background-color: grey;
 }
+
+#Text{
+    color: white;
+}
+#Special{
+    padding: 25px;
+    background-color: gold;
+    color: red;
+    margin: 30px;
+    text-align: right;
+    text-decoration:underline 2px solid black;
+}
+
+.Theform{
+    border: 2px solid black;
+    margin-right: 60px;
+    text-align: center;
+}
+
+.Letters{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
